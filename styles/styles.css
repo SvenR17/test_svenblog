@@ -1,5 +1,5 @@
 body {
-  margin: 0 0 0 0;
+  margin: 0;
 }
 
 h2 {
@@ -31,7 +31,7 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  font-family: Oswald, sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 
 .supertitle h4 {
@@ -47,12 +47,10 @@ p {
 
 .myself {
   width: 50vw;
-  height: 10vh;
   color: white;
 }
 
 .myoccupations {
   width: 50vw;
-  height: 10vh;
   color: white;
 }
