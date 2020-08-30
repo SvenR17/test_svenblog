@@ -1,3 +1,26 @@
+body {
+    margin: 0 0 0 0;
+}
+
 .main {
-    background-image: url("images/optimised/background.jpg");
+    background-image: url("/images/optimised/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.introduction {
+    position: absolute;
+    color: white;
+    top: 45vh;
+    left: 50%;
+}
+
+.title {
+    margin-top: -20px;
 }
