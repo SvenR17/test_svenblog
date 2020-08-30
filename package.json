@@ -8,7 +8,7 @@
   "dependencies": {
     "netlify-cli": "^2.59.2"
   },
-  "scripts" : {
-    "dev": "npx netlify dev"
+  "scripts": {
+    "dev": "npx netlify dev --watch"
   }
 }
