@@ -1,0 +1,14 @@
+{
+  "name": "test_svenblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:V1RE/test_svenblog.git",
+  "author": "Niels Mentink <niels@ment.ink>",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-cli": "^2.59.2"
+  },
+  "scripts" : {
+    "dev": "npx netlify dev"
+  }
+}
